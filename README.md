@@ -67,5 +67,5 @@ $
 - [Python test cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
 
 # AUTHORS
-- Aminu Rabiu | arabiu033@gmail.com | [Github](https://github.com/arabiu033)
-- Damilola Joshua Oluwafemi | joshuadami17@gmail.com | [Github](https://github.com/Joshdb-18)
+- Rufai Abdulwasii Oladimeji | rufaiwasiu5@gmail.com | [Github](https://github.com/Oladimeji088)
+-  Robel Adane |robeltilahun169@gmail.com
